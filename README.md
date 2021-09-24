@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @salimakli
 - 👀 I’m interested in RPA and java developing
-- 🌱 I’m currently learning engineering in ESME-Sudria
+- 🌱 I’m currently learning engineering at ESME-Sudria
 - 💞️ I’m looking to collaborate on RPA
 
 <!---
